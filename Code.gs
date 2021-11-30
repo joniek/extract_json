@@ -1,7 +1,7 @@
 /**
  * Custom scripts that:
  * (1) Creates a new sheet named 'json_url' to enter a url to a json file.
- * (2) Processes the json file and exports the values to a new sheet named 'json_values'.
+ * (2) Processes the json file into a 2D table, and exports the values to a new sheet named 'json_values'.
  * 
  * This script uses Google Sheets.
  * To use this script, copy and paste the scripts below to App Scripts.
